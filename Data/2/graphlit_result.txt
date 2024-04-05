@@ -1,0 +1,29 @@
+9
+
+Action Levels for Alarms
+
+• 8 dB Lubrication
+
+• 16 dB Damage-Visual Faults
+
+• 35+ dB Severe Failure
+
+Lack of
+
+Lubrication
+
+Microscopic
+
+Damage
+
+Damage
+
+(visual)
+
+Severe
+
+Failure
+
+The Historical Method
+
+17

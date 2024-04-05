@@ -1,0 +1,98 @@
+Apple Inc.
+
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS (Unaudited)
+
+(In millions, except number of shares, which are reflected in thousands, and per-share amounts)
+
+Three Months Ended Twelve Months Ended
+
+September 30,
+
+2023
+
+September 24,
+
+2022
+
+September 30,
+
+2023
+
+September 24,
+
+2022
+
+Net sales:
+
+Products ! 67,184 ! 70,958 ! 298,085 ! 316,199
+
+Services 22,314 19,188 85,200 78,129
+
+Total net sales (1) 89,498 90,146 383,285 394,328
+
+Cost of sales:
+
+Products 42,586 46,387 189,282 201,471
+
+Services 6,485 5,664 24,855 22,075
+
+Total cost of sales 49,071 52,051 214,137 223,546
+
+Gross margin 40,427 38,095 169,148 170,782
+
+Operating expenses:
+
+Research and development 7,307 6,761 29,915 26,251
+
+Selling, general and administrative 6,151 6,440 24,932 25,094
+
+Total operating expenses 13,458 13,201 54,847 51,345
+
+Operating income 26,969 24,894 114,301 119,437
+
+Other income/(expense), net 29 (237) (565) (334)
+
+Income before provision for income taxes 26,998 24,657 113,736 119,103
+
+Provision for income taxes 4,042 3,936 16,741 19,300
+
+Net income ! 22,956 ! 20,721 ! 96,995 ! 99,803
+
+Earnings per share:
+
+Basic ! 1.47 ! 1.29 ! 6.16 ! 6.15
+
+Diluted ! 1.46 ! 1.29 ! 6.13 ! 6.11
+
+Shares used in computing earnings per share:
+
+Basic 15,599,434 16,030,382 15,744,231 16,215,963
+
+Diluted 15,672,400 16,118,465 15,812,547 16,325,819
+
+(1) Net sales by reportable segment:
+
+Americas ! 40,115 ! 39,808 ! 162,560 ! 169,658
+
+Europe 22,463 22,795 94,294 95,118
+
+Greater China 15,084 15,470 72,559 74,200
+
+Japan 5,505 5,700 24,257 25,977
+
+Rest of Asia Pacific 6,331 6,373 29,615 29,375
+
+Total net sales ! 89,498 ! 90,146 ! 383,285 ! 394,328
+
+(1) Net sales by category:
+
+iPhone ! 43,805 ! 42,626 ! 200,583 ! 205,489
+
+Mac 7,614 11,508 29,357 40,177
+
+iPad 6,443 7,174 28,300 29,292
+
+Wearables, Home and Accessories 9,322 9,650 39,845 41,241
+
+Services 22,314 19,188 85,200 78,129
+Total net sales ! 89,498 ! 90,146 ! 383,285 ! 394,328 

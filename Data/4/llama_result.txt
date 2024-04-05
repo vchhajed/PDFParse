@@ -1,0 +1,51 @@
+                                                                      Journal of Cleaner Production 286 (2021) 124986
+                                                                                                                                                                                   Cleaner
+                                                                    Contents lists available at           ScienceDirect                                                        Production
+ELSEVIER                                                    Journal of Cleaner Production
+                                                   j o u r n a l h o m e p a g e :   w w w . e l s e v i e r . c o m / lo c a t e / j c l e p r o
+Natural Fibre Polymer Composites - A game changer for the aviation
+sector?
+Alejandra Gomez-Campos                           a,  *, Claire Vialle           a, ** , Antoine Rouilly               a, Lorie Hamelin               b,
+Aline Rogeon              c, David Hardy              c, Caroline Sablayrolles                   a
+a Laboratoire de Chimie Agro-industrielle, LCA, Universit  e de Toulouse, INRAE, Toulouse, France
+b Toulouse Biotechnology Institute (TBI), INSA, INRAE UMR792 and CNRS UMR5504, Federal University of Toulouse, 135 Avenue de Rangueil, F-31077,
+Toulouse, France
+c VESO Concept, 1620 Route de Bellevue, F-31530, Merenvielle, France
+a r t i c l e           i n f o                              a b s t r a c t
+Article history:                                             As part of the efforts to reduce the environmental impacts caused by the aviation sector, the use of bio-
+Received 28 February 2020                                    based instead of fossil-based materials has been proposed as one possible mitigation option. Natural
+Received in revised form                                     Fibre Polymer Composites have proven to have a higher environmental performance in the automotive
+30 October 2020                                              sector and are emerging as an option for weight reduction in aircrafts. This study quantifies, through Life
+Accepted 4 November 2020
+Available online 9 November 2020                             Cycle Assessment, the environmental performance of specific                   flax-based composite panels intended for
+                                                             aircrafts as interior    fitting elements (i.e. partition panels, tray tables, baggage compartments) compared
+Handling editor: Zhifu Mi                                    to a glass   fibre/epoxy composite with a honeycomb core. Through system expansion, the fate of co-
+                                                             products issued from the production of the                flax  fibre technical textile used as reinforcement in the
+Keywords:                                                    biocomposite material was considered in the assessment.
+Life cycle assessment                                        Results:   showed that for an application in the aeronautics sector, the weight of the panels is the upmost
+Bio-based materials                                          critical parameter shaping the overall environmental performance of panels. Focusing on the panel
+Flax fibre                                                   production only, the biocomposite panel showed a higher environmental performance in the categories
+Climate change                                               of climate change and marine eutrophication compared to the conventional panel, and the                                 fire sup-
+Aviation                                                     pressant agent was identified as the main contributor to the environmental impacts of the bio-based
+Interior  fittings                                           panel. Yet these gains were negligible when considering the full life cycle of the panels, due to the
+                                                             higher weight (14%) of the bio-based panels; which is linked to the bio-based panel being still at the
+                                                             prototype stage.
+                                                             In order to improve the environmental performance of the biocomposite panel and thus reduce its
+                                                             weight, it was shown relevant to optimize the geometry of the panel itself, especially its core, so less
+                                                             resin could be used.                                                            ©  2020 Elsevier Ltd. All rights reserved.
+1.  Introduction                                                                                    2011, the European Commission, through the Advisory Council for
+                                                                                                    Aviation Research and Innovation in Europe (ACARE), published
+     Though it only represents a little over 2% of global greenhouse                                five goals to be achieved in the           Flightpath 2050      report. One of these
+gas (GHG) emissions (Graver et al., 2019), aviation is becoming a                                   goals targets a 75% reduction in CO             2 emissions and a 90% reduction
+growing public concern in the light of the current climate urgency                                  in NO  x emissions per passenger kilometre, while another goal aims
+(IPCC 2018). Because fuel represents ca. 25% of operating expenses                                  for aircrafts to be recyclable (ACARE 2011).
+for the global air transport industry (IATA 2019), efforts to reduce                                    In an attempt to achieve these goals, lighter materials have been
+fuel consumption have already been undertaken by the sector. In                                     researched to replace those currently used, this allowing for lower
+                                                                                                    fuel use. Indeed, jet fuel used during an aircraft lifetime is in fact
+                                                                                                    responsible for more than 75% of the GH emissions in the whole life
+  *  Corresponding author.                                                                          cycle (Bachmann et al., 2017). Moreover, these GHG emissions are
+ **  Corresponding author.                                                                          more environmentally damaging compared to those emitted at
+     E-mail   addresses:  alejandra.gomezcampos@ensiacet.fr          (A.  Gomez-Campos),            ground level due to the increased interaction of gases at higher
+claire.vialle@toulouse-inp.fr   (C. Vialle).
+https://doi.org/10.1016/j.jclepro.2020.124986
+0959-6526/©     2020 Elsevier Ltd. All rights reserved.

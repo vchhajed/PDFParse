@@ -1,0 +1,162 @@
+The range of the aircraft makes it possible to assume that it will
+
+be used for intracontinental flights within Europe. The “Transport,
+
+passenger, aircraft {RER}| intracontinental | Conseq, U” process
+
+from the Ecoinvent v3.4 database was therefore taken as reference
+
+for the estimation of direct emissions linked to the kerosene con-
+sumption on a medium haul aircraft. The kilograms of kerosene
+
+consumed per m2 of panel per the lifetime of the aircraft (KCP)
+
+were calculated through the following equation:
+
+Table 2
+
+LCI data for the Raw Materials life cycle stage.
+
+Material LCI source
+
+data
+
+Ecoinvent process used, when relevant Comments
+
+Epoxy resin Ecoinvent
+
+v3.4
+
+Epoxy resin {GLO}| market for epoxy resin
+
+| Conseq, U
+
+The commercial polymeric resin used for the production of the biocomposite panel,
+
+contains the flame retardant agent. From the chemical analysis carried out for the
+
+commercial resin (detailed in the SI-3), a 1.63 epoxy/flame retardant ratio was
+
+determined.
+
+Ammonium
+
+Polyphosphate
+
+(APP)
+
+Ecoinvent
+
+v3.4
+
+Nitrogen fertilizer, as N {RER}|
+
+monoammonium phosphate production |
+
+APOS, U
+
+Since no consequential process were available, the one mentioned herein was used as
+
+starting point and adjusted with consequential data. A detailed description of the
+
+modifications is available in the SI-4.
+
+(Used as proxy with modifications)
+
+Decabromodiphenyl
+
+ether (decaBDE)
+
+Ecoinvent
+
+v3.4
+
+Decabromodiphenyl ether {GLO}| market
+
+for decabromodiphenyl ether | Conseq, U
+
+From Vidal et al. (2018), the flame retardant agent used in the conventional panel is
+
+identified as decaBDE.
+
+Methylamine Ecoinvent 3.4 Methylamine {GLO}| market for | Conseq,
+
+U
+
+From the chemical analysis of the commercial hardener used for the biocomposite panel
+
+(detailed in the SI-3), three main substances were identified: isophorone diamine,
+
+alkylether polyamine and methylamine.
+
+(Used as proxy) Only the production of methylamine is present in the Ecoinvent database. As the toxicity
+
+of the three molecules is highly similar, this process was used as proxy.
+
+Flax fibre technical
+
+textile
+
+Gomez-
+Campos et al.
+
+(2020)
+
+Flax fibre technical textile {FR} | Conseq This dataset comprises all activities from the agricultural phase to the weaving of the
+
+textile, and includes land use changes.
+
+Glass fibre Ecoinvent
+
+v3.4
+
+Glass fibre {GLO}| market for | Conseq, U
+
+Aramid fibre Ecoinvent
+
+v3.4
+
+Nylon 6-6 {GLO} | market for | Conseq, U
+
+(Used as proxy)
+
+The most commonly used material in honeycomb core structures is known as NOMEX
+
+(Morton-Jones and Ellis 1986) and is described as a type of nylon.
+
+Based on this and on literature work involving the production of aramid fibre (Wilhelm
+
+2018), the production process of nylon was used as a proxy for aramid fibre production.
+
+Phenolic resin Ecoinvent
+
+v3.4
+
+Phenolic resin {GLO}| market for | Conseq,
+
+U
+
+Fig. 2. Biocomposite panel manufacture process.
+
+Table 3
+
+Manufacturing process of 1 m2 of the biocomposite panel.
+
+Production stage Energy consumption (Wh/m2
+
+)
+
+Textile preparation Considered negligible
+
+Matrix preparation 15
+
+Fibre impregnation 160
+
+Thermo-pressing 525
+
+TOTAL 700
+
+Fig. 3. Conventional panel manufacture process.
+
+A. Gomez-Campos, C. Vialle, A. Rouilly et al. Journal of Cleaner Production 286 (2021) 124986
+4

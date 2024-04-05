@@ -1,0 +1,52 @@
+A. Gomez-Campos, C. Vialle, A. Rouilly et al.                                                                                       Journal of Cleaner Production 286 (2021) 124986
+       Inventory                                              Impact categories                                                  Area of Protection
+         results                                                     Midpoint                                                           Endpoint
+                                                           Climate change     (kg COz eq)
+                                                        Ozone depletion (kg CFC 11 eq)
+                                                  Human toxicity, non-cancer effects (CTUh)                                         Human Health
+                                                    Human toxicity, cancer effects (CTUh)                                                (DALY)
+                                                        Particulate matter (kg PMzs eq)
+          COz                                 lonizing radiation      Human Health (kBq U235 eq)
+          CH4                                       lonizing radiation      E (interim) (CTUe)
+         Zinc,                                Photochemical ozone formation (kg NMVOC eq)                                                Natural                     Single
+          NOx                                               Acidification (mol H+ eq)                                                environment                     Score
+          etc                                         Terrestrial eutrophication (kg N eq)                                           (species       y)
+                                                     Freshwater eutrophication (kg P eq)
+                                                        Marine eutrophication (kg N eq)
+                                                         Freshwater ecotoxicity (CTUe)                                                   Natural
+                                                                                                                                       Resources
+                                                              Land use (kg C deficit)                                                       (S)
+                                                    Water resource depletion (m3 eau eq)
+                                        Mineral, fossil & renewable resource depletion (kg Sb eq)
+Table 6                                               Fig. 4.Representation of the ILCD 2011 Midpoint    þ evaluation method.
+Contribution of each life cycle stage (in %) of both panels to the environmental impact categories.RM: Raw Materials; P: Production; U: Use; EOL: End-of-Life; ren.: renewable.
+N: Negligible.
+   Impact category                                        Biocomposite Panel                                                Conventional Panel
+                                                          RM               P             U                  EOL             RM                P             U                  EOL
+   Climate change                                         N                N             100                N               N                 N             100                N
+   Ozone depletion                                        N                N             100                N               N                 N             100                N
+   Particulate matter                                     0.01             N             99.99              N               N                 N             100                N
+   Ionizing radiation HH                                  N                N             100                N               N                 N             100                N
+   Photochemical ozone formation                          N                N             100                N               N                 N             100                N
+   Acidification                                          N                N             100                N               N                 N             100                N
+   Freshwater eutrophication                              N                N             100                N               N                 N             100                N
+   Marine eutrophication                                  N                N             100                N               N                 N             100                N
+   Mineral, fossil& ren. resource depletion               0.04             N             99.96              N               0.01              N             99.99              N
+impact categories, the Raw Materials stage was identified to be                               radiation, Photochemical ozone formation, Acidification, Fresh-
+responsible for up to 99% of the environmental impact of the bio-                             water eutrophication and Mineral, fossil                &  renewable resources
+composite panel and over 65% for all categories for the conven-                               depletion).
+tional panel (Table 7).                                                                           To identify the strengths and weaknesses of the biocomposite
+     Further analysis of the raw materials of both panels showed that                         panel, the main contributors to each of the impact categories were
+for the biocomposite panel, the               flame retardant agent and the                   identified. Findings are summarized in             Table 8, which presents the
+production of the        flax fibre technical textile are the main contrib-                   performance of the biocomposite panel compared to the conven-
+utors to the studied environmental impacts (Fig. 6). On the other                             tional panel and the process/main contributors responsible for the
+hand, glass      fibre and aramid       fibre production are the main con-                    potential environmental impacts for each category.
+tributors to the environmental impacts of the conventional panel,
+followed by the        flame retardant agent and the epoxy resin pro-                         4.  Discussion
+duction (Fig. 7).
+     From    comparing        the   performance        of  both     panels,    results           From a Cradle-to-Grave’s perspective
+showed (Fig. 8) that the biocomposite panel has a better perfor-
+mance in the environmental impact categories of Climate change                                    For an application in aeronautics, the critical element of the
+and Marine eutrophication than the conventional panel. However,                               panel is its mass as it has a direct influence on fuel consumption
+the conventional panel outperforms the biocomposite panel in all                              and therefore on the level of air emissions. This is revealed in
+the other categories (Ozone depletion, Particulate matter, Ionizing                       6   Table 6   where the use phase is shown to represent more than 99%

@@ -1,0 +1,49 @@
+ uea                                                                                  WWW.uesystems com
+SYSTEMS INC
+The ultrasound approach
+                   uB
+                  SYSTEMS INC
+                  The sound oppronch
+                  WWW uesystems com Action Levels for Alarms
+                       •  8 dB       Lubrication
+                       •  16 dB      Damage-Visual Faults
+                       •  35+ dB Severe Failure                         Severe
+                                                        Damage           Failure
+                                                        (visual)
+                                              Microscopic
+                                     Lack of  Damage
+                 17                  Lubrication
+                   uB
+                  SYSTEMS INC
+                  The sound oppronch
+                  WWW uesystems com   The Historical Method
+                        Ultratrend DMS
+                       FileEditCommunicationsHelp
+                       E-MAPLE STREET          Record InformationHistoryReportsVersions
+                          Bearing                       Images   ChartAlarms
+                           Heat Treat           DatelJime       Module TypeTest Result
+                           Machine Room 2015
+                           Machine Room         3/20/2010 6.21.33 PMSTM
+                             Points Currently In        FrequencyInspector IDTemperature
+                             PUMPI
+                              DRIVEA 001        Mode    SensitivityMeter Response
+                               3/20/20106.21 PM                         Info
+                               4/20/20106.23 PM Real Time       Medium
+                               5/2/2010 1443 PM Offset  Alarm   Units   Type
+                               5/20/20106.24 PM
+                               6/20/20106;25 PM                 Standard
+                               7/20/20106.26 PM LocationMachine Scale
+                              DRIVEB 002        PUMPI           RelativeRPM
+                              DRVNC 003
+                              DRVND 004         Point           Instrument
+                             PUMP2              DRIVEA                   Bearing Info
+                             PUMP3              Comments        Serial Number
+                        #LElectrical
+                          Leak                                          Actual StrokesInjected Mass
+                          Steam
+                          Valve                                         Planned StrokesGrease Type
+                                                                 Baseline?       Mineral Base
+                                                                                Grease Viscosity
+                                                WAV File                Mass Per Stroke
+                 18                                                             100
+                                                                                                         9
